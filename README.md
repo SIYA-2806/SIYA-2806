@@ -5,17 +5,15 @@
 📁 Check out my major project: [Sign Language Recognition System](https://github.com/SIYA-2806/Sign-Language-recognition)  
 📚 Currently learning: Google Data Analytics Professional Certificate
 
-### 🛠️ Skills:
+🛠️ Skills:
 - **Languages:** Python, SQL
 - **Tools:** Power BI, Excel, Jupyter Notebook, Tableau
 - **Concepts:** Data Cleaning, EDA, Visualization, Reporting
 
-### 📌 Featured Projects:
+📌 Featured Projects:
 - [📈 Sales Dashboard in Power BI](link)
 - [🖐 Sign Language Recognition using CNN](link)
 - [📊 Data Cleaning with Python (Case Study)](link)
 
-Let’s connect on [LinkedIn](www.linkedin.com/in/siya-susan-thomas-dataanalyst
-
-)!
+Let’s connect on [LinkedIn](www.linkedin.com/in/siya-susan-thomas-dataanalyst)!
 
