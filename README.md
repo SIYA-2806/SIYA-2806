@@ -1,16 +1,19 @@
-## Hi there 👋
+👋 Hi, I'm Siya!
 
-<!--
-**SIYA-2806/SIYA-2806** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech Computer Science Graduate  
+📊 Aspiring Data Analyst | Excel • Power BI • Python • SQL  • Tableau
+📁 Check out my major project: [Sign Language Recognition System]()  
+📚 Currently learning: Google Data Analytics Professional Certificate
 
-Here are some ideas to get you started:
+### 🛠️ Skills:
+- **Languages:** Python, SQL
+- **Tools:** Power BI, Excel, Jupyter Notebook, Tableau
+- **Concepts:** Data Cleaning, EDA, Visualization, Reporting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Featured Projects:
+- [📈 Sales Dashboard in Power BI](link)
+- [🖐 Sign Language Recognition using CNN](link)
+- [📊 Data Cleaning with Python (Case Study)](link)
+
+Let’s connect on [LinkedIn]()!
+
