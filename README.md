@@ -15,5 +15,7 @@
 - [🖐 Sign Language Recognition using CNN](link)
 - [📊 Data Cleaning with Python (Case Study)](link)
 
-Let’s connect on [LinkedIn]()!
+Let’s connect on [LinkedIn](www.linkedin.com/in/siya-susan-thomas-dataanalyst
+
+)!
 
