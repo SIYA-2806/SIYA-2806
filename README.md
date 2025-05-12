@@ -2,7 +2,7 @@
 
 🎓 BTech Computer Science Graduate  
 📊 Aspiring Data Analyst | Excel • Power BI • Python • SQL  • Tableau
-📁 Check out my major project: [Sign Language Recognition System]()  
+📁 Check out my major project: [Sign Language Recognition System](https://github.com/SIYA-2806/Sign-Language-recognition)  
 📚 Currently learning: Google Data Analytics Professional Certificate
 
 ### 🛠️ Skills:
