@@ -1,8 +1,8 @@
 👋 Hi, I'm Siya!
 
 🎓 BTech Computer Science Graduate  
-📊 Aspiring Data Analyst | Excel • Power BI • Python • SQL  • Tableau
-📚 Currently learning: Google Data Analytics Professional Certificate
+📊 SOC Analyst | Data Analyst | Excel • Power BI • Python • SQL  • Tableau
+
 
 🛠️ Skills:
 - **Languages:** Python, SQL
